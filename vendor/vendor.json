@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "J47s5lV7x01fXcBuLVY+Tzm9KnM=",
+			"path": "github.com/Jeffail/gabs",
+			"revision": "44ad915e1baa36caddb7db85303c3406042f7187",
+			"revisionTime": "2017-09-12T13:33:11Z"
+		}
+	],
+	"rootPath": "vendorFlatteningTest"
+}
